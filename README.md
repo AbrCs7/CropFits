@@ -18,6 +18,12 @@ How to use
     Click the "Open FITS" button to load a FITS file.
     Use the buttons provided to adjust normalization, display the FITS header, define a region of interest (ROI), and perform other operations.
 
+Citation
+
+    If you use CropFits in your research and publish results that are derived from it, please cite the software using the following DOI:
+
+    DOI: 10.5281/zenodo.11374781
+
 Contribution
 
     Report issues or request features in Issues.
